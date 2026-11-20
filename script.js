@@ -14,7 +14,7 @@
    */
   const CURATED_CITIES = [
     // Asia
-    { name: 'Taipei', country: 'TW', region: 'asia', lat: 25.0339, lon: 121.5645 },
+    { name: 'Taipei 101', country: 'TW', region: 'asia', lat: 25.0339, lon: 121.5645 },
 	{ name: 'Taoyuan Airport', country: 'TW', region: 'asia', lat: 25.0777, lon: 121.2330 },
 	 { name: 'Taoyuan County', country: 'TW', region: 'asia', lat: 25.016255, lon: 121.315478 },
     { name: 'Beijing', country: 'CN', region: 'asia', lat: 39.9087, lon: 116.3975 },
